@@ -1,0 +1,4 @@
+display_context = true
+run_voila = false
+backtest_voila_app_decision_maker_port = 8864
+backtest_voila_app_perf_port = 8865
